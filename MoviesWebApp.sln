@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesWebApp.API", "MoviesWebApp.API\MoviesWebApp.API.csproj", "{515B4D29-A638-48F5-B3C6-1A00021B69D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{515B4D29-A638-48F5-B3C6-1A00021B69D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515B4D29-A638-48F5-B3C6-1A00021B69D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515B4D29-A638-48F5-B3C6-1A00021B69D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515B4D29-A638-48F5-B3C6-1A00021B69D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE555ACD-0E01-49E5-A5E7-652AC0131E10}
+	EndGlobalSection
+EndGlobal
