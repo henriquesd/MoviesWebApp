@@ -20,6 +20,7 @@ dotnet watch run
 
 ### To execute Angular Project:
 ```
+npm install (for the first time, when download the project)
 ng serve
 ```
 
